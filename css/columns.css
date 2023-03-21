@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    width: 75vw;
+
+    /* add solution here */
+    display: flex;
+}
+
+li {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(245, 173, 41);
+
+    /* add solution here.. */
+    flex: 1;
+}
